@@ -7,8 +7,8 @@ title:  Installing PowerShell
 
 Over the years, there have been many releases of PowerShell. Initially, Windows PowerShell was
 built on the .NET Framework and only worked on Windows systems. With the current release,
-PowerShell Core uses .NET Core 2.x as its runtime. PowerShell Core supports the Windows, macOS, and
-Linux platforms.
+PowerShell Core uses .NET Core 2.x as its runtime. PowerShell Core supports the Windows, macOS, Linux and
+Android mobile platforms.
 
 ## Windows PowerShell
 
@@ -25,3 +25,4 @@ and experimental platforms.
 - [Installing PowerShell Core on Linux](Installing-PowerShell-Core-on-Linux.md)
 - [Installing PowerShell Core on macOS](Installing-PowerShell-Core-on-macOS.md)
 - [Installing PowerShell Core on ARM](PowerShell-Core-on-ARM.md)
+- [Installing Power shell Core on Android](Powershell-Core-on-Android.md)
